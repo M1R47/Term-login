@@ -2,6 +2,12 @@
 inicio de sesión para termux 
 ##
 # capturas
+<body>
+
+<img src="https://github.com/M1R47/Term-login/blob/main/img/20230207_220625.jpg"/>
+
+</body>
+
 
 # instalación
 
